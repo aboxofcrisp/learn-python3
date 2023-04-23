@@ -13,3 +13,16 @@ elif age >= 6:
     print('teenager')
 else:
     print('kid')
+
+b = True
+print(b)
+print(type(b))
+
+age = 19
+if age >= 18:
+    print('--adult')
+elif age >= 6:
+    print('--teenager')
+else:
+    print('--kid')
+
